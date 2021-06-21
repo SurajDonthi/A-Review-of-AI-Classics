@@ -1,2 +1,2 @@
 # Paper-Reviews
-My reviews on the several papers I've read
+My reviews on a few of the AI Classics I've read!
